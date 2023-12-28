@@ -1,4 +1,4 @@
-# 60 minutes quick Laravel 10 CRUD App
+# 60 minutes quick Laravel-10 CRUD App
 
 A simple Laravel 10 CRUD app in flat 60 mins using readymade Bootstrap components.
 
@@ -17,4 +17,5 @@ Make sure that you have setup the environment properly. You will need minimum PH
 8. Visit here [http://127.0.0.1:8000/products](http://127.0.0.1:8000/products) to test the application
 
 
+![image](https://github.com/sachnaror/laravel-10-crud/assets/9551754/ec0d1335-3b6e-4561-aa01-11feb36fc5fe)
 
