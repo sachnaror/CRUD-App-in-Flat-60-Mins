@@ -3,6 +3,10 @@
 A simple Laravel 10 CRUD app in flat 60 mins using readymade Bootstrap components.
 
 
+![image](https://github.com/sachnaror/laravel-10-crud/assets/9551754/ec0d1335-3b6e-4561-aa01-11feb36fc5fe)
+
+
+
 ## Installation
 
 Make sure that you have setup the environment properly. You will need minimum PHP 8.1, MySQL/MariaDB, and composer.
@@ -16,6 +20,4 @@ Make sure that you have setup the environment properly. You will need minimum PH
 7. Start local server by executing `php artisan serve`
 8. Visit here [http://127.0.0.1:8000/products](http://127.0.0.1:8000/products) to test the application
 
-
-![image](https://github.com/sachnaror/laravel-10-crud/assets/9551754/ec0d1335-3b6e-4561-aa01-11feb36fc5fe)
 
