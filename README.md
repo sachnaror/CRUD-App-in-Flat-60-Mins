@@ -1,16 +1,10 @@
 # 60 minutes quick Laravel 10 CRUD App
-<<<<<<< HEAD
 
-=======
->>>>>>> bb8e026 (Writing commit message is BORING)
 A simple Laravel 10 CRUD app in flat 60 mins using readymade Bootstrap components.
 
 
 ## Oh Yes
-<<<<<<< HEAD
 
-=======
->>>>>>> bb8e026 (Writing commit message is BORING)
 My new website : https://www.fabrobe.com/
 
 
@@ -28,7 +22,4 @@ Make sure that you have setup the environment properly. You will need minimum PH
 8. Visit here [http://127.0.0.1:8000/products](http://127.0.0.1:8000/products) to test the application
 
 
-<<<<<<< HEAD
-# CRUD-App-in-Flat-60-Mins
-=======
->>>>>>> bb8e026 (Writing commit message is BORING)
+
