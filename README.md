@@ -3,11 +3,6 @@
 A simple Laravel 10 CRUD app in flat 60 mins using readymade Bootstrap components.
 
 
-## Oh Yes
-
-My new website : https://www.fabrobe.com/
-
-
 ## Installation
 
 Make sure that you have setup the environment properly. You will need minimum PHP 8.1, MySQL/MariaDB, and composer.
